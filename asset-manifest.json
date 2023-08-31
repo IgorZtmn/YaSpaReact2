@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/YaSpaReact2/static/css/main.7ec355fb.css",
+    "main.js": "/YaSpaReact2/static/js/main.fad69a84.js",
+    "static/media/Photo1.png": "/YaSpaReact2/static/media/Photo1.b5b1c6f6e94ab62a0fa6.png",
+    "static/media/Photo2.png": "/YaSpaReact2/static/media/Photo2.01f3691d54e29b6b9d25.png",
+    "static/media/football.png": "/YaSpaReact2/static/media/football.37d9b71755a68bf8a472.png",
+    "static/media/html.png": "/YaSpaReact2/static/media/html.aeb6084be32c714466bd.png",
+    "static/media/wiki.png": "/YaSpaReact2/static/media/wiki.ce7e9860c73b766205f0.png",
+    "index.html": "/YaSpaReact2/index.html",
+    "main.7ec355fb.css.map": "/YaSpaReact2/static/css/main.7ec355fb.css.map",
+    "main.fad69a84.js.map": "/YaSpaReact2/static/js/main.fad69a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec355fb.css",
+    "static/js/main.fad69a84.js"
+  ]
+}
